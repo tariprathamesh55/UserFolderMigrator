@@ -786,7 +786,7 @@ The form asks:
 
 Prefer email? Reach out directly:
 
-> **your@email.com**  
+> **tariprathamesh55@gmail.com**  
 > Subject line: `[UFM Feedback]` or `[UFM Bug]`
 
 Include the same details as a bug report above. I read every message and reply when time allows.
