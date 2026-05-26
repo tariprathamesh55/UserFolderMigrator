@@ -760,7 +760,7 @@ This is an initial public release and community feedback directly shapes what ge
 
 Please fill in the Google Form — it takes under 3 minutes and covers what worked, what failed, and what you'd like added:
 
-> **[→ Open Feedback Form](https://forms.gle/YOUR_FORM_ID_HERE)**
+> **[→ Open Feedback Form](https://forms.gle/CnVdGCJfQQY87WCbA)**
 
 The form asks:
 - Which mode(s) you used
