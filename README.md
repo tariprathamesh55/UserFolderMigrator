@@ -5,7 +5,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-7.0%2B-blue?logo=powershell)
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational?logo=windows)
 ![Version](https://img.shields.io/badge/Version-7.5.0-success)
-![Plugins](https://img.shields.io/badge/Plugins-10%20included-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Requires Admin](https://img.shields.io/badge/Requires-Administrator-red)
 ![Status](https://img.shields.io/badge/Status-Initial%20Public%20Release-orange)
